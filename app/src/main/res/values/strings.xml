@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Article Reader</string>
+    <string name="article_link">Article Link:</string>
+    <string name="url_hint">https://mdaven.dev</string>
+    <string name="load_button">Load</string>
+    <string name="last_paragraph">End:</string>
+    <string name="first_paragraph">Start:</string>
+    <string name="read_button">Read</string>
+    <string name="pause_button">Pause</string>
+    <string name="resume_button">Resume</string>
+    <string name="action_first_paragraph">Start Text</string>
+    <string name="action_last_paragraph">End Text</string>
+    <string name="button_load_content">Load Content</string>
+    <string name="enable_javascript">Enable site scripts:</string>
+
+</resources>
